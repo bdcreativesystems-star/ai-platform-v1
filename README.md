@@ -1,4 +1,4 @@
-# 🏷️ GitHub “About” for THIS repo (model platform)
+# 🏷️ README
 
 **End-to-end AutoML platform for tabular classification with async training, best-model selection, versioned deployment, and live FastAPI prediction endpoints.**
 **Machine Learning Engineer Project — AI Platform V1**
