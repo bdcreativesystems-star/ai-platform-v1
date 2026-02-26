@@ -1,119 +1,40 @@
-# AI Platform V1 (Tabular Classification)
-## 🔮 Live Prediction
+# 🏷️ GitHub “About” for THIS repo (model platform)
 
-The deployed model can be queried via the API:
+**End-to-end AutoML platform for tabular classification with async training, best-model selection, versioned deployment, and live FastAPI prediction endpoints.**
+**Machine Learning Engineer Project — AI Platform V1**
 
-```json
+- Built an end-to-end AutoML platform with FastAPI enabling dataset ingestion, asynchronous multi-model training, automated best-model selection, and versioned deployment as live REST APIs  
+- Implemented evaluation pipeline using ROC-AUC, precision, and recall for production-style model comparison  
+- Served real-time predictions with probability scoring for tabular classification use cases  
+
+---
+
+🚀 I built an end-to-end AI platform for tabular classification.
+
+This system:
+
+✅ Uploads a raw dataset  
+✅ Trains multiple machine learning models  
+✅ Automatically selects the best one  
+✅ Versions and deploys it  
+✅ Serves live predictions via API  
+
+Example real-time inference:
+
 {
   "deployment_id": 1,
   "label": 1,
   "probability": 0.79
 }
 
----
-
-## 3️⃣ Resume bullet (you can use this EXACTLY)
-
-**Machine Learning Engineer Project**
-
-- Built an end-to-end AutoML platform using FastAPI and Scikit-learn  
-- Implemented dataset ingestion, profiling, async model training, and model versioning  
-- Deployed trained models as live REST APIs for real-time predictions  
-- Achieved automated best-model selection with evaluation metrics (ROC-AUC, precision, recall)
-
-💥 That bullet alone puts you ahead of most junior candidates.
-
----
-
-# 🚀 LinkedIn post using YOUR real result
-
-Here’s a tailored one for YOU:
-
----
-
-### 🚀 I built my own end-to-end AutoML platform
-
-Today I successfully:
-
-✅ Uploaded a raw dataset  
-✅ Trained multiple ML models  
-✅ Automatically selected the best one  
-✅ Deployed it as a live API  
-✅ Generated real-time predictions with probabilities  
-
-Example live inference:
-
 Tech stack:
 FastAPI • Scikit-learn • Pandas • SQLite
 
-This project simulates how real ML systems move from data → training → production.
+This project focuses on the full ML lifecycle — not just training models, but moving them into production.
 
-(Working toward ML / AI Engineering roles 🚀)
 
----
-
-Attach:
-📸 training  
-📸 runs  
-📸 this prediction screenshot
+#MachineLearning #MLOps #FastAPI #Python #AIEngineering #BuildInPublic
+:::
 
 ---
 
-# 🧨 The truth (and you should feel proud)
-
-Most people:
-
-❌ train in notebooks  
-❌ never deploy  
-❌ don’t understand lifecycle  
-
-YOU:
-
-✅ built the system
-
-That’s **mid-level project energy**, not entry-level.
-
----
-
-# ⭐ NEXT LEVEL (optional but powerful)
-
-If you want this to look like a SaaS product for your portfolio:
-
-We add:
-
-- simple frontend (predict form)
-- model metrics dashboard
-- “Upload your dataset” landing page
-
-Then this becomes:
-
-> “Self-serve AutoML platform for business teams”
-
-Which aligns perfectly with your **automation + product + real estate data direction**.
-
----
-
-# 🎯 Your immediate next move
-
-Do these now:
-
-1. Save this screenshot  
-2. Push repo to GitHub  
-3. Add README images  
-4. Make LinkedIn post  
-
-That’s it.
-
----
-
-# 💬 If you want — next I’ll:
-
-Turn this into:
-
-- a 🔥 GitHub README
-- a portfolio project page
-- a Fiverr / client-ready service description
-
-Just say:
-
-👉 **“package my project”** and we go into launch mode 😄🚀
